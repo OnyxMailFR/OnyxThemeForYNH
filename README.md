@@ -1,6 +1,6 @@
 # colorful
 
-A minimalist theme, designed to blow your mind with sweet colors. 🌈
+The OnyxTheme for YunoHost...
 This is a derivated work of "Clouds" theme provided by Yunohost.
 
 ## How to install

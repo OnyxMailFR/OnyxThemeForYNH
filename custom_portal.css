@@ -83,5 +83,5 @@
 /* Use a custom logo image */
 #ynh-logo {
   z-index: 10;
-  background-image: url("./cloud.png");
+  background-image: url("./logo.png");
 }

@@ -1,17 +1,17 @@
 {
-    "name": "colorful",
-    "id": "colorful",
+    "name": "onyxtheme",
+    "id": "onyxtheme",
     "packaging_format": 1,
     "description": {
-        "en": "A minimalist theme with sweet colors.",
-        "fr": "Un thème minimaliste avec de chouettes couleurs."
+        "en": "The OnyxTheme for YunoHost.",
+        "fr": "OnyxTheme pour Yunohost."
     },
     "version": "2.0",
-    "url": "https://github.com/yunohost-themes/colorful",
+    "url": "https://github.com/OnyxMailFR/OnyxThemeForYNH",
     "license": "AGPL-3.0",
     "maintainer": {
-        "name": "Finger-san",
-        "email": "fingersan@yahoo.com"
+        "name": "Friezer",
+        "email": "hello@friezer.tech"
     },
     "requirements": {
         "yunohost": ">= 3.5.2",
